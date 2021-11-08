@@ -9,10 +9,10 @@ public class 셀프넘버 {
         for (int i = 1; i <= a; i++) {
             int temp = i;
             int index = 0;
-            int digit = (int)(Math.log10(index) + 1);
+            int digit = (int)(Math.log10(temp) + 1);
             for (int j = 0; j < digit; j++) {
-                index += index % 10;
-                index /= 10;
+                index += temp % 10;
+                temp /= 10;
             }
             index += i;
             if (index > a) {
