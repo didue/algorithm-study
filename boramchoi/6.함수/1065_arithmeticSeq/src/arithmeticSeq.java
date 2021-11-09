@@ -16,6 +16,8 @@ public class arithmeticSeq {
             System.out.println(result);
         }
 
+        sc.close();
+
     }
 
     public static int isArithmeticSeq(int n) {
