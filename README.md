@@ -13,8 +13,8 @@
 
 ### [BOJ 단계별 풀어보기](https://www.acmicpc.net/step) 목록
 - [x] [함수](https://www.acmicpc.net/step/5) ✅ 20211103 - 셀프넘버(4673), 한수(1065)  
-- [ ] [문자열](https://www.acmicpc.net/step/7) 20211110 - 알파벳찾기(10809), 문자열의 반복(2675)
-- [ ] [기본수학1](https://www.acmicpc.net/step/8) 
+- [ ] [문자열](https://www.acmicpc.net/step/7) ✅ 20211110 - 알파벳찾기(10809), 문자열의 반복(2675)
+- [ ] [기본수학1](https://www.acmicpc.net/step/8) 20211117 - 단어공부(1157), 단어의개수(1152), 상수(2908), 다이얼(5622)
 - [ ] [기본수학2](https://www.acmicpc.net/step/10)
 - [ ] [재귀](https://www.acmicpc.net/step/19)
 - [ ] [브루트 포스](https://www.acmicpc.net/step/22) 
