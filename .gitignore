@@ -6,3 +6,5 @@
 # for intellij
 /**/.idea
 /**/**.iml
+
+/**/out/**
