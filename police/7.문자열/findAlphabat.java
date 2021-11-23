@@ -12,7 +12,7 @@ public class findAlphabat {
 		}
 		
 		/*
-		 * 지적사항 1 : Scanner 의 사용 효율이 떨어진다 - BufferedReader를 사용하거나 sc.next()처럼 하나의 값을 받고자 할때는 한 값만 받아오는 방법이 있음 
+		 * 지적사항 1 : Scanner 의 사용 효율이 떨어진다 - BufferedReader를 사용하거나 sc.next()처럼 하나의 값을 받고자 할때는 한 값만 받아오는 방법이(System.in.read()) 있음 
 		 * 지적사항 2 :  for문 안의 for문 -> a-z부터의 for문 안에  indexOf를 탈 경우 indexOf()의 특성이 모든 값 조회이기에 for문 안의for문이 되어
 		 * 			메모리 소모가 큰 소스가 된다. 
 		 * 	indexOf() 
