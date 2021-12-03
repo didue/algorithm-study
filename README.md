@@ -16,7 +16,8 @@
 - [x] [문자열](https://www.acmicpc.net/step/7) ✅ 20211110 - 알파벳찾기(10809), 문자열의 반복(2675)
 - [x] [문자열](https://www.acmicpc.net/step/7) ✅ 20211117 - 단어공부(1157), 단어의개수(1152), 상수(2908), 다이얼(5622)
 - [x] [문자열](https://www.acmicpc.net/step/7) ✅ 20211124 - 크로아티아알파벳(2941), 그룹단어체커(1316)
-- [ ] [기본수학1](https://www.acmicpc.net/step/8) 20211201 - 손익분기점(1712), 벌집(2292), 분수찾기(1193), 달팽이는 올라가고 싶다(2869)
+- [x] [기본수학1](https://www.acmicpc.net/step/8) ✅ 20211201 - 손익분기점(1712), 벌집(2292), 분수찾기(1193), 달팽이는 올라가고 싶다(2869)
+- [ ] [기본수학1](https://www.acmicpc.net/step/8) 20211208 - 10250, 2775, 2839, 10757
 - [ ] [기본수학2](https://www.acmicpc.net/step/10)
 - [ ] [재귀](https://www.acmicpc.net/step/19)
 - [ ] [브루트 포스](https://www.acmicpc.net/step/22) 
