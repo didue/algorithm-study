@@ -1,6 +1,6 @@
 ### [BOJ 단계별 풀어보기](https://www.acmicpc.net/step) 목록
-- [x] [함수](https://www.acmicpc.net/step/5) - 20211108 완료
-- [ ] [문자열](https://www.acmicpc.net/step/7)
+- [x] [함수](https://www.acmicpc.net/step/5)
+- [x] [문자열](https://www.acmicpc.net/step/7)
 - [ ] [기본수학1](https://www.acmicpc.net/step/8) 
 - [ ] [기본수학2](https://www.acmicpc.net/step/10)
 - [ ] [재귀](https://www.acmicpc.net/step/19)
