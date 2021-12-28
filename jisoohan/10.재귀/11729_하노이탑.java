@@ -10,6 +10,6 @@ public class HanoiTower {
         //TODO : 수행절차 로직 누락
     }
     private static int move(int ring) {
-        return ring==1? 1 : move(ring-1) + move(ring-1)+1;
+        return ring==1? 1 : move(ring-1)*2+1;
     }
 }
